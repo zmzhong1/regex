@@ -65,6 +65,7 @@ Character classes match a character from a specific set. There are a number of p
 
 - [+] Match any character in the set, in this case would be +
 - \d Matches any digit character (0-9). Equivalent to [0-9].
+- \s Matches any whitespace character (spaces, tabs, line breaks).
 - [2-9] Match any character in the set, in this case would be value 2 to 9
 - [- ] Match any character in the set, in this case would be -
 
